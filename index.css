@@ -1,0 +1,35 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    height: 100%;
+    background-color: rgb(27, 101, 211);
+    color:rgb(31, 0, 118);
+    font-weight: 650;
+    vertical-align: middle;
+}
+
+h2 {
+    color:rgb(251, 255, 0);
+    font-weight: 650;
+    font-family: Arial, sans-serif;
+    text-shadow: rgb(255, 132, 0) 1.7px 1.7px;
+}
+#contatiner {
+    position:center;
+    margin: auto;
+    margin-top: 300px;
+    padding: 100px;
+    width: 50%;
+    text-align: center;
+    border:rgb(251, 255, 0) 3px solid;
+    border-radius: 35px;
+
+}
+#encrypt {
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    width: 100%;
+    padding: 1rem;
+    margin: auto;
+}
+
+
